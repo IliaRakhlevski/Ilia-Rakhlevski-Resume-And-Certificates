@@ -1,5 +1,6 @@
-# Ilia Rakhlevski  
-### Senior C++ Software Engineer
+# Ilia Rakhlevski
+
+## Senior C++ Software Engineer
 
 Systems programming | Large-scale enterprise systems | Performance optimization | Windows / Linux
 
@@ -13,10 +14,33 @@ Strong focus on performance optimization, deep debugging, stability, and complex
 
 ---
 
+## Education
+
+M.Sc. in Intelligent Systems  
+B.Sc. in Software Engineering  
+Technion Data Science Program
+
+---
+
 ## Resume
 
-📄 **Download PDF:**  
+📄 Download PDF:  
 [Ilia_Rakhlevski_Senior_C++_Engineer_2026.pdf](./Ilia_Rakhlevski_Senior_C++_Engineer_2026.pdf)
+
+---
+
+## Education Documents
+
+### M.Sc. in Intelligent Systems
+- Diploma: [Master of Science in Intelligent Systems](./education/Master_of_Science_in_Intelligent_Systems.pdf)
+- Transcript: [Course Transcript – Intelligent Systems](./education/Course_Transcript_Intelligent_Systems.pdf)
+
+### B.Sc. in Software Engineering
+- Diploma: [Bachelor of Science in Software Engineering](./education/Bachelor_of_Science_in_Software_Engineering.pdf)
+
+### Technion Data Science Program
+- Certificate: [Technion – Data Scientist](./certificates/Technion_Data_Scientist.pdf)
+- Transcript: [Technion – Data Science – Final Transcript](./certificates/Technion_Data_Science_Final_Transcript.pdf)
 
 ---
 
