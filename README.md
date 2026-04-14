@@ -8,9 +8,10 @@ Systems programming | Large-scale enterprise systems | Performance optimization 
 
 ## About
 
-Senior C/C++ Software Engineer with 20+ years of experience building and maintaining large-scale, cross-platform systems — from embedded devices to enterprise software.
+C/C++ Software Engineer focused on large-scale desktop applications.
 
-Strong focus on performance optimization, deep debugging, stability, and complex legacy codebases.
+Experience with complex codebases, debugging, and system stability.  
+Background in embedded and real-time systems.
 
 ---
 
