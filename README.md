@@ -25,7 +25,7 @@ Technion Data Science Program
 ## Resume
 
 📄 Download PDF:  
-[Ilia_Rakhlevski_Senior_C++_Engineer_2026.pdf](Ilia_Rakhlevski_Senior_C++_Engineer_2026.pdf)
+[Ilia_Rakhlevski.pdf](Ilia_Rakhlevski.pdf)
 
 ---
 
