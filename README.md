@@ -1,6 +1,6 @@
 # Ilia Rakhlevski
 
-## Senior C++ Software Engineer
+## C/C++ Software Engineer
 
 Systems programming | Large-scale enterprise systems | Performance optimization | Windows / Linux
 
